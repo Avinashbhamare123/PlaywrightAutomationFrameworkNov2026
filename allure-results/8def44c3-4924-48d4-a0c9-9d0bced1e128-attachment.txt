@@ -1,0 +1,9 @@
+{
+  id: 8693823,
+  name: 'Avinash Bhamare',
+  email: 'bhamare.avinash@gmail.com',
+  gender: 'male',
+  status: 'active'
+}
+Response code is : 201
+Response message is : Created

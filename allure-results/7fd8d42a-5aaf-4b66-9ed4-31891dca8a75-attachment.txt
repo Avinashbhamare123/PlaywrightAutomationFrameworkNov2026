@@ -1,0 +1,74 @@
+[
+  {
+    id: 8690760,
+    name: 'Javas Prajapat Jr.',
+    email: 'prajapat_javas_jr@hintz.example',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8690759,
+    name: 'Rajendra Khan',
+    email: 'rajendra_khan@predovic.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8690758,
+    name: 'Bhooshit Bharadwaj',
+    email: 'bhooshit_bharadwaj@stanton.test',
+    gender: 'male',
+    status: 'active'
+  },
+  {
+    id: 8690757,
+    name: 'Nirbhay Sethi',
+    email: 'sethi_nirbhay@lebsack-erdman.test',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8690755,
+    name: 'Gati Khatri',
+    email: 'khatri_gati@labadie.example',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8690754,
+    name: 'Ranjit Sinha',
+    email: 'sinha_ranjit@rippin-dicki.example',
+    gender: 'female',
+    status: 'active'
+  },
+  {
+    id: 8690753,
+    name: 'Deeptimoy Agarwal I',
+    email: 'agarwal_deeptimoy_i@wiegand.example',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8690752,
+    name: 'Dr. Dinakar Nambeesan',
+    email: 'nambeesan_dr_dinakar@erdman-kuhic.example',
+    gender: 'male',
+    status: 'inactive'
+  },
+  {
+    id: 8690751,
+    name: 'Balachandra Khanna',
+    email: 'khanna_balachandra@steuber.test',
+    gender: 'female',
+    status: 'inactive'
+  },
+  {
+    id: 8690750,
+    name: 'Rev. Chandani Gill',
+    email: 'chandani_gill_rev@stracke.example',
+    gender: 'female',
+    status: 'inactive'
+  }
+]
+Response code is : 200
+Response message is : OK
